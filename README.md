@@ -3,11 +3,7 @@
 ## Video
 
 ### Scene 1
-<p align="center">
-  ![image](https://github.com/polwork/U-2Pnet/blob/main/Video/Viedeo1-Ori.gif?raw=true) ![image](https://github.com/polwork/U-2Pnet/blob/main/Video/Viedeo1-U2P.gif?raw=true)
-</p>
-
-![image](https://github.com/polwork/U-2Pnet/blob/main/Video/Viedeo1-Ori.gif?raw=true) ![image](https://github.com/polwork/U-2Pnet/blob/main/Video/Viedeo1-U2P.gif?raw=true)
+<div align=center>![image](https://github.com/polwork/U-2Pnet/blob/main/Video/Viedeo1-Ori.gif?raw=true) ![image](https://github.com/polwork/U-2Pnet/blob/main/Video/Viedeo1-U2P.gif?raw=true)
 ### Scene 2
 ![image](https://github.com/polwork/U-2Pnet/blob/main/Video/Viedeo2-Ori.gif?raw=true) ![image](https://github.com/polwork/U-2Pnet/blob/main/Video/Viedeo2-U2P.gif?raw=true)
 ### Scene 3
