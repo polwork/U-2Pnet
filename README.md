@@ -1,6 +1,6 @@
 <div align=left><div>
 
-# U-2Pnet
+# U2PNet: An Unsupervised Underwater Image-Restoration Network Using Polarization
 
 <div align=left><div>
   
