@@ -5,7 +5,7 @@
 <iframe width="560" height="315" src="https://github.com/polwork/U-2Pnet/blob/main/Video/Viedeo1-Ori.avi">
 </iframe>
 
-<video id="video" controls="" preload="none" poster="封面">
+<video id="video" controls="" preload="none" poster="none">
       <source id="avi" src="https://github.com/polwork/U-2Pnet/blob/main/Video/Viedeo1-Ori.avi" type="video/avi">
 </videos>
 
