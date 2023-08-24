@@ -7,11 +7,17 @@
 ## Dependencies
 
 opencv-contrib-python==4.6.0.66
+
 opencv-python==4.6.0.66
+
 Python == 3.6.10
+
 scikit-image==0.17.2
+
 scikit-video==1.1.11
+
 torch==1.1.0
+
 torchvision==0.3.0
 
 
