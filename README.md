@@ -28,11 +28,11 @@ torchvision==0.3.0
 
 ### Underwater Enhancement
 
-<div align=center><img src="https://github.com/polwork/U-2Pnet/blob/main/Images_Output/image20Imax.jpg" width="245" height="205" ><img src="https://github.com/polwork/U-2Pnet/blob/main/Images_Output/r20.bmp" width="245" height="205">    <img src="https://github.com/polwork/U-2Pnet/blob/main/Images_Output/image60Imax.jpg" width="245" height="205" ><img src="https://github.com/polwork/U-2Pnet/blob/main/Images_Output/r60.bmp" width="245" height="205"><div>
+<div align=center><img src="https://github.com/polwork/U-2Pnet/blob/main/Images_Output/image20Imax.jpg" width="220" height="195" ><img src="https://github.com/polwork/U-2Pnet/blob/main/Images_Output/r20.bmp" width="220" height="195">    <img src="https://github.com/polwork/U-2Pnet/blob/main/Images_Output/image60Imax.jpg" width="220" height="205" ><img src="https://github.com/polwork/U-2Pnet/blob/main/Images_Output/r60.bmp" width="220" height="205"><div>
 
-<div align=center><img src="https://github.com/polwork/U-2Pnet/blob/main/Images_Output/image140Imax.jpg" width="245" height="205" ><img src="https://github.com/polwork/U-2Pnet/blob/main/Images_Output/r140.bmp" width="245" height="205">    <img src="https://github.com/polwork/U-2Pnet/blob/main/Images_Output/S0_5L_frame4.bmp" width="245" height="205" ><img src="https://github.com/polwork/U-2Pnet/blob/main/Images_Output/5L_frame4Imax.jpg" width="245" height="205"><div>
+<div align=center><img src="https://github.com/polwork/U-2Pnet/blob/main/Images_Output/image140Imax.jpg" width="220" height="195" ><img src="https://github.com/polwork/U-2Pnet/blob/main/Images_Output/r140.bmp" width="220" height="195">    <img src="https://github.com/polwork/U-2Pnet/blob/main/Images_Output/S0_5L_frame4.bmp" width="220" height="205" ><img src="https://github.com/polwork/U-2Pnet/blob/main/Images_Output/5L_frame4Imax.jpg" width="220" height="205"><div>
 
-<div align=center><img src="https://github.com/polwork/U-2Pnet/blob/main/Images_Output/S0_10L_frame17.bmp" width="245" height="205" ><img src="https://github.com/polwork/U-2Pnet/blob/main/Images_Output/10L_frame17Imax.jpg" width="245" height="205">    <img src="https://github.com/polwork/U-2Pnet/blob/main/Images_Output/S0_15L_frame9.bmp" width="245" height="205" ><img src="https://github.com/polwork/U-2Pnet/blob/main/Images_Output/15L_frame9Imax.jpg" width="245" height="205"><div>
+<div align=center><img src="https://github.com/polwork/U-2Pnet/blob/main/Images_Output/S0_10L_frame17.bmp" width="220" height="195" ><img src="https://github.com/polwork/U-2Pnet/blob/main/Images_Output/10L_frame17Imax.jpg" width="220" height="195">    <img src="https://github.com/polwork/U-2Pnet/blob/main/Images_Output/S0_15L_frame9.bmp" width="220" height="195" ><img src="https://github.com/polwork/U-2Pnet/blob/main/Images_Output/15L_frame9Imax.jpg" width="220" height="195"><div>
 
 <div align=left><div>
 
