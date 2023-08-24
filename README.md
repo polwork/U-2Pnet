@@ -38,7 +38,10 @@ torchvision==0.3.0
 
 ### Dehazing
 
-<div align=center><img src="https://github.com/polwork/U-2Pnet/blob/main/Images_Output/haze1.jpg" width="165" height="145" ><img src="https://github.com/polwork/U-2Pnet/blob/main/Images_Output/dehaze1.png" width="165" height="145">    <img src="https://github.com/polwork/U-2Pnet/blob/main/Images_Output/haze2.jpg" width="165" height="145" ><img src="https://github.com/polwork/U-2Pnet/blob/main/Images_Output/dehaze2.png" width="165" height="145"><div>
+<div align=center><img src="https://github.com/polwork/U-2Pnet/blob/main/Images_Output/Haze_Ori1.jpg" width="165" height="145" ><img src="https://github.com/polwork/U-2Pnet/blob/main/Images_Output/Dehaze_U2P1.jpg" width="165" height="145">    <img src="https://github.com/polwork/U-2Pnet/blob/main/Images_Output/Haze_Ori2.jpg" width="165" height="145" ><img src="https://github.com/polwork/U-2Pnet/blob/main/Images_Output/Dehaze_U2P2.jpg" width="165" height="145"><div>
+
+
+<div align=center><img src="https://github.com/polwork/U-2Pnet/blob/main/Images_Output/Haze_Ori3.jpg" width="165" height="145" ><img src="https://github.com/polwork/U-2Pnet/blob/main/Images_Output/Dehaze_U2P3.jpg" width="165" height="145">    <img src="https://github.com/polwork/U-2Pnet/blob/main/Images_Output/Haze_Ori4.jpg" width="165" height="145" ><img src="https://github.com/polwork/U-2Pnet/blob/main/Images_Output/Dehaze_U2P4.jpg" width="165" height="145"><div>
 
 <div align=left><div>
   
