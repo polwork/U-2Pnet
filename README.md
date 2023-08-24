@@ -28,7 +28,7 @@ torchvision==0.3.0
 
 ### Underwater Enhancement
 
-<div align=center><img src="https://github.com/polwork/U-2Pnet/blob/main/Images_Output/image20Imax.jpg" width="220" height="195" ><img src="https://github.com/polwork/U-2Pnet/blob/main/Images_Output/r20.bmp" width="220" height="195">    <img src="https://github.com/polwork/U-2Pnet/blob/main/Images_Output/image60Imax.jpg" width="220" height="195" ><img src="https://github.com/polwork/U-2Pnet/blob/main/Images_Output/r60.bmp" width="220" height="195"><div>
+<div align=center><img src="https://github.com/polwork/U-2Pnet/blob/main/Images_Output/image20Imax.jpg" width="165" height="145" ><img src="https://github.com/polwork/U-2Pnet/blob/main/Images_Output/r20.bmp" width="165" height="145">    <img src="https://github.com/polwork/U-2Pnet/blob/main/Images_Output/image60Imax.jpg" width="165" height="145" ><img src="https://github.com/polwork/U-2Pnet/blob/main/Images_Output/r60.bmp" width="165" height="145"><div>
 
 <div align=center><img src="https://github.com/polwork/U-2Pnet/blob/main/Images_Output/image140Imax.jpg" width="220" height="195" ><img src="https://github.com/polwork/U-2Pnet/blob/main/Images_Output/r140.bmp" width="220" height="195">    <img src="https://github.com/polwork/U-2Pnet/blob/main/Images_Output/S0_5L_frame4.bmp" width="220" height="205" ><img src="https://github.com/polwork/U-2Pnet/blob/main/Images_Output/5L_frame4Imax.jpg" width="220" height="205"><div>
 
