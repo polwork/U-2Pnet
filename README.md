@@ -21,6 +21,13 @@ torch==1.1.0
 torchvision==0.3.0
 
 
+## Datasets
+[Real Underwater Polarization Data](https://github.com/polwork/U-2Pnet/tree/main/Real_Raw_Underwater_images) are released.
+
+We use a polarization camera with micro polarization filters array (LUCID, PHX050S), whose spatial resolution is 2448 × 2048.
+The acquired mosaicked polarization image can be demosaicked using [PCDC](https://github.com/polwork/PCDP) or [Demosaicking-DoFP-images-using-Newton-polynomial-interpolation-and-polarization-difference-model](https://github.com/polwork/Demosaicking-DoFP-images-using-Newton-polynomial-interpolation-and-polarization-difference-model).
+
+
 
 <div align=left><div>
   
